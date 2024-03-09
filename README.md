@@ -14,7 +14,7 @@
 # Stylist Ai : Five Models
 
  1. [Text-To-Outfit-Generator 📝👗](#Text-To-Outfit-Generator)
- 2. [Human-Detection 👤🚀](#Human-Detection)
+ 2. [Human-Identification 👤🚀](#Human-Detection)
  3. [Outfit-Recommendation 🛍️💡](#Outfit-Recommendation)
  4. [Virtual-Try-On 🌐👀](#Virtual-Try-On)
  5. [Chat-Bot 💬🤖](#Chat-Bot)
@@ -32,12 +32,14 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Text-To-Outfit-Generator)
 
-## Human-Detection 👤🚀
+<a name="Human-Detection"></a>
+## Human-Identification 👤🚀
 
 This code implements an image classification model using TensorFlow and Keras. The model is designed to classify images into two classes: "human" and "non-human." The neural network architecture consists of convolutional (Conv2D) and pooling (MaxPooling2D) layers, followed by fully connected (Dense) layers. The model is compiled using the binary crossentropy loss function and the Adam optimizer. The Intel OneDNN helped in reducing the time for training, and the optimized TensorFlow for Intel Hardwares helped us in reducing the time for training. 🌐🖼️🤖💪
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Human-Identification)
 
+<a name="Outfit-Recommendation"></a>
 ## Outfit-Recommendation 🛍️💡
 
 This code snippet demonstrates the implementation of an outfit-recommendation model using **Semantic Image Search** techniques. Leveraging the Langchain library, it combines BM25 retrieval with dense vector retrieval using CLIP embeddings. The outfit recommendation process involves encoding sparse and dense vectors from fashion metadata and images, persisting them in a vector database, and utilizing retrievers to search and display relevant outfit suggestions. By integrating both textual and visual cues, this model enhances the accuracy and diversity of outfit recommendations based on the **color** and **ocassion** given by user. catering to a wide range of fashion preferences. 🧥📊👠👗🎨
@@ -55,6 +57,7 @@ This code snippet demonstrates the implementation of an outfit-recommendation mo
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Outfit-Recommendation)
 
+<a name="Virtual-Try-On"></a>
 ## Virtual-Try-On 🌐👀
 
 This code implements a **Virtual-Try-On (VTON)** model that allows users to try on clothes virtually using an input image. The model consists of several steps, including clothing segmentation, pose estimation, and image composition.
@@ -72,6 +75,7 @@ This code implements a **Virtual-Try-On (VTON)** model that allows users to try 
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Virtual-Try-On)
 
+<a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
 
 This code configures a chatbot using the **Mistral 7B** model, fine-tuned with a custom dataset. It employs various libraries and tools for setting up the chatbot environment, transformers, LLAMA Index, and Langchain embeddings. The process involves installing necessary dependencies, downloading the custom dataset (in PDF format), loading the dataset into LLAMA Index, configuring the Mistral 7B model for language generation, and setting up the Langchain embeddings for semantic understanding. Finally, it initializes the chatbot's query engine and demonstrates a sample query for testing purposes. 🤖📊🔧🗣️
