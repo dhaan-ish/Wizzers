@@ -34,10 +34,13 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 This code snippet demonstrates the implementation of an outfit-recommendation model using **Semantic Image Search** techniques. Leveraging the Langchain library, it combines BM25 retrieval with dense vector retrieval using CLIP embeddings. The outfit recommendation process involves encoding sparse and dense vectors from fashion metadata and images, persisting them in a vector database, and utilizing retrievers to search and display relevant outfit suggestions. By integrating both textual and visual cues, this model enhances the accuracy and diversity of outfit recommendations based on the **color** and **ocassion** given by user. catering to a wide range of fashion preferences.
 
 
-![](http://assets.myntassets.com/v1/images/style/properties/27f41de6e52f15c6e11b8fc4ae98e889_images.jpg)
-![](http://assets.myntassets.com/v1/images/style/properties/Reid---Taylor-Men-White-Shirt_7868945b6d3a95140b08b1719b0092f1_images.jpg)
-![](http://assets.myntassets.com/v1/images/style/properties/ea2bbdc84a4512d5987e74c557e2b141_images.jpg)
-![enter image description here](http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_e9c86c6203c4b2ac6d9739069ebc71e7_images.jpg)
+<div style="display: flex;">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/27f41de6e52f15c6e11b8fc4ae98e889_images.jpg" width="200" alt="Image 1">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/Reid---Taylor-Men-White-Shirt_7868945b6d3a95140b08b1719b0092f1_images.jpg" width="200" alt="Image 2">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/ea2bbdc84a4512d5987e74c557e2b141_images.jpg" width="200" alt="Image 3">
+    <img src="http://assets.myntassets.com/v1/images/style/properties/Arrow-Men-White-Striped-Shirt_e9c86c6203c4b2ac6d9739069ebc71e7_images.jpg" width="200" alt="Image 4">
+</div>
+
 > Selected Ocassion : Wedding
 > Selected Color : White
 
