@@ -20,9 +20,9 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 
 
-![enter image description here](images/generated_cloth.png)
+![generated cloth](images/shirt.jpeg)
 
->Prompt : outer, The North Face x Supreme White Label Nuptse Down Jacket Cream, a photography of a white puffer jacket with a red box logo on the front.
+>Prompt : Flowers in green shirt with white colored button.
 
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Text-To-Outfit-Generator)
 
