@@ -10,7 +10,7 @@
 
 👗✨ Experience the future of fashion with **Stylist AI**, where innovation meets style. Our cutting-edge platform revolutionizes your wardrobe by offering personalized outfit recommendations and generating unique ensembles tailored just for you. Explore our virtual try-on feature to visualize your perfect look effortlessly. Engage in fashion-forward conversations and get expert styling advice with our AI-powered chatbot. Elevate your fashion game with Stylist AI and discover a new era of effortless elegance. 🌟🤖
 
-![Demo Video](images/demo-final.mp4)
+[![Watch the video](https://img.youtube.com/vi/<embed-code-or-link>/0.jpg)](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/demo-final.mp4?t=2024-03-09T18%3A06%3A22.567Z)
 
 # Stylist Ai : Five Models
 
