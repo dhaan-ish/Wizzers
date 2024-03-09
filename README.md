@@ -18,9 +18,7 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 **Hugging Face URL** : [Fashion-Product-Generator](https://huggingface.co/NouRed/sd-fashion-products)
 
-
-
-<img src="images/shirt.jpg" width="200" alt="Image 1">
+![generated image](images/shirt.jpeg)
 
 >Prompt : Flowers in green shirt with white colored button.
 
