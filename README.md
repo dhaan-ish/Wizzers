@@ -120,6 +120,31 @@ Utilizing the resources provided by Intel Developer Cloud significantly expedite
     
 In summary, Intel Developer Cloud's advanced CPU and XPU technologies provided us with the computational power necessary to expedite model training and inference processes, ultimately accelerating our project development and deployment timelines. 🚀🕒
 
+# Flow Diagram 🔄📊
+
+The flow diagram illustrates the sequential steps and interactions within our system. Each stage in the process contributes to the overall functionality, ensuring a smooth and efficient workflow. Let's delve into the key components:
+
+1.  **User Input 🤖🗣️:**
+    
+    -   Users initiate the process by providing input, whether through text prompts or selects ocassion.
+2.  **Text-To-Outfit-Generator 📝👗:**
+    
+    -   The Text-To-Outfit-Generator module interprets textual prompts and generates corresponding outfit descriptions.
+3.  **Human Detection 👤🚀:**
+    
+    -   The Human Detection component identifies and locates individuals within images. This step is crucial for subsequent processes, ensuring accurate and perfect virtual try on.
+4.  **Outfit Recommendation 🛍️💡:**
+    
+    -   Based on selection of ocassion and color, the Outfit Recommendation module suggests personalized clothing ensembles. It considers factors such as style preferences, occasion, and user demographics.
+5.  **Virtual Try-On 🌐👀:**
+    
+    -   Users have the opportunity to virtually try on suggested outfits. The Virtual Try-On feature utilizes image processing, clothing segmentation, and pose estimation to showcase how the recommended outfits would look on the user.
+6.  **Fashion Chatbot 💬🤖:**
+    
+    -   Engaging with users in natural language, the Fashion Chatbot provides additional assistance, answers queries, and offers styling advice. It enhances the overall user experience through interactive and dynamic conversations.
+
+![Work Flow](images/workflow.png)
+
 # Built With 🛠️
 1.  **Frontend - React:** Our frontend user interface was developed using React, a popular JavaScript library for building user interfaces. React's component-based architecture allowed us to create modular and reusable UI components, facilitating the development of a responsive and interactive user experience. 💻🌐
     
