@@ -19,7 +19,7 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 
 
-![enter image description here](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/generated_cloth.png?t=2024-03-09T09:29:52.002Z)
+![enter image description here](images/generated_cloth.png)
 
 >Prompt : outer, The North Face x Supreme White Label Nuptse Down Jacket Cream, a photography of a white puffer jacket with a red box logo on the front.
 
