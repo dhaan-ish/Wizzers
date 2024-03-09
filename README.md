@@ -11,9 +11,6 @@
 👗✨ Experience the future of fashion with **Stylist AI**, where innovation meets style. Our cutting-edge platform revolutionizes your wardrobe by offering personalized outfit recommendations and generating unique ensembles tailored just for you. Explore our virtual try-on feature to visualize your perfect look effortlessly. Engage in fashion-forward conversations and get expert styling advice with our AI-powered chatbot. Elevate your fashion game with Stylist AI and discover a new era of effortless elegance. 🌟🤖
 
 
-[![Watch the video](https://img.youtube.com/vi/oDx3x4rOnaY/0.jpg)](https://www.youtube.com/watch?v=oDx3x4rOnaY)
-
-
 # Stylist Ai : Five Models
 
  1. [Text-To-Outfit-Generator 📝👗](#Text-To-Outfit-Generator)
