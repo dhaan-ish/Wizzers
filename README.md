@@ -54,8 +54,8 @@ This code implements a **Virtual-Try-On (VTON)** model that allows users to try 
 3.  **Image Processing:** The main process in `main.py` combines the segmented clothing mask and the pose estimation results to compose a final image of the person wearing the virtual clothes. It involves resizing the input image, generating semantic segmentation, removing the background, and adding the clothing item onto the person in the image.
     
 4.  **Final Output:** The model produces a final image (`finalimg.png`) that showcases the person wearing the virtual clothes. The user can choose to retain the original background or remove it from the final composition.
-![Inputs](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/upload%20%281%29.png?t=2024-03-09T09:43:14.539Z)
-![Output](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/do.png?t=2024-03-09T09:43:44.077Z)
+![Inputs](images/upload.png)
+![Output](images/do.png)
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Virtual-Try-On)
 
 ## Chat-Bot
