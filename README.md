@@ -97,13 +97,13 @@ Utilizing the resources provided by Intel Developer Cloud significantly expedite
 
 1.  **Human Detection Model Training:** The Intel Developer Cloud's CPU and XPU capabilities, combined with the use of oneDNN, played a pivotal role in reducing the training time of our Human Detection model. By leveraging the high-performance computing infrastructure provided by Intel, we were able to train our model more efficiently, significantly cutting down the time required for model optimization and experimentation.🚀🔧 <br/> <br/> The integration of oneDNN, a high-performance deep learning library developed by Intel, contributed to this efficiency by optimizing the computational tasks involved in training. Notably, a single epoch now takes only 2 seconds, a substantial improvement compared to the 6 seconds it took in Colab, showcasing the remarkable speedup achieved through the use of Intel's hardware resources and optimized software stack. 🚀⚒️ <br/> <br/> Additionally, the optimized version of TensorFlow tailored for Intel architectures further played a crucial role in reducing the training time. This collaborative utilization of optimized TensorFlow and Intel's advanced computing infrastructure enabled us to achieve significant improvements in model training efficiency, ultimately accelerating our development process and enhancing the overall performance of our Human Detection model. 🏋️‍♂️🧑‍💻
 
-![generated image](images/Binary_Classification_Graph.png)
+![Comparison Graph](images/Binary_Classifcation_Graph.png)
 
 >Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
     
 2.  **Text-to-Outfit Generation:** The Text-to-Outfit Generator component of our project involved complex computational tasks, particularly during outfit generation and rendering. Running these computations in Google Colab often resulted in long processing times due to resource limitations. However, by leveraging Intel Developer Cloud's CPU and XPU resources, we experienced a notable reduction in processing time. The parallel processing capabilities of Intel's infrastructure enabled us to generate outfit recommendations swiftly, enhancing the overall user experience. 🌟👗
 
-![generated image](images/textToImageComparison.png)
+![Comparison Graph](images/textToImageComparison.png)
 
 >Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
     
