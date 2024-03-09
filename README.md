@@ -35,7 +35,7 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 This code implements an image classification model using TensorFlow and Keras. The model is designed to classify images into two classes: "human" and "non-human." The neural network architecture consists of convolutional (Conv2D) and pooling (MaxPooling2D) layers, followed by fully connected (Dense) layers. The model is compiled using the binary crossentropy loss function and the Adam optimizer. The Intel OneDNN helped in reducing the time for training, and the optimized TensorFlow for Intel Hardwares helped us in reducing the time for training. 🌐🖼️🤖💪
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Human-Detection)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Human-Identification)
 
 ## Outfit-Recommendation 🛍️💡
 
