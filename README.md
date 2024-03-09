@@ -56,6 +56,7 @@ This code implements a **Virtual-Try-On (VTON)** model that allows users to try 
 4.  **Final Output:** The model produces a final image (`finalimg.png`) that showcases the person wearing the virtual clothes. The user can choose to retain the original background or remove it from the final composition.
 ![Inputs](images/upload.png)
 ![Output](images/do.png)
+
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Virtual-Try-On)
 
 ## Chat-Bot
