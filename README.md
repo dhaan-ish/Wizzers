@@ -20,7 +20,7 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 
 
-![generated cloth](images/shirt.jpeg)
+<img src="images/shirt.jpg" width="200" alt="Image 1">
 
 >Prompt : Flowers in green shirt with white colored button.
 
