@@ -19,6 +19,7 @@
  4. [Virtual-Try-On 🌐👀](#Virtual-Try-On)
  5. [Chat-Bot 💬🤖](#Chat-Bot)
 
+<a name="Text-To-Outfit-Generator"></a>
 ## Text-To-Outfit-Generator 📝👗
 
 This code snippet demonstrates the utilization of a Text-Outfit-Generator model, leveraging a pretrained model from Hugging Face. The model is part of the DiffusionPipeline package, facilitating the generation of outfit descriptions based on textual prompts. By loading the model onto the available device, the script efficiently processes the input prompt and produces an image of the described outfit. Notably, running this code in **Google Colab** exceeded 15 minutes, but leveraging **Intel's CPU** or **XPU** ensures completion in less than a minute. ⚙️👗🚀
