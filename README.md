@@ -1,3 +1,4 @@
+[![Intel](https://img.shields.io/badge/Intel-%0071C5E.svg?style=flat&logo=intel&logoColor=white)](https://www.intel.com/)
 [![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
