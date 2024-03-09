@@ -61,6 +61,7 @@ This code implements a **Virtual-Try-On (VTON)** model that allows users to try 
 ## Chat-Bot
 
 This code configures a chatbot using the **Mistral 7B** model, fine-tuned with a custom dataset. It employs various libraries and tools for setting up the chatbot environment, transformers, LLAMA Index, and Langchain embeddings. The process involves installing necessary dependencies, downloading the custom dataset (in PDF format), loading the dataset into LLAMA Index, configuring the Mistral 7B model for language generation, and setting up the Langchain embeddings for semantic understanding. Finally, it initializes the chatbot's query engine and demonstrates a sample query for testing purposes.
+>
 >Prompt : 
 >![enter image description here](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/screenshots/1_user.jpg?t=2024-03-09T09:48:35.800Z)
 >
@@ -72,7 +73,7 @@ This code configures a chatbot using the **Mistral 7B** model, fine-tuned with a
 >
 >Output : 
 >![enter image description here](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/screenshots/2_bot.jpg)
-
+>
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Chat-Bot)
 
 
