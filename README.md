@@ -14,6 +14,8 @@
 
 https://github.com/dhaan-ish/intelOneApiHackathon/assets/119067139/d0834784-0e5a-4795-b0e0-49b617a9e05d
 
+[Click here to watch the demo video](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/demo-final.mp4?t=2024-03-12T03%3A32%3A10.017Z)
+
 # Stylist Ai : Five Models
 
  1. [Text-To-Outfit-Generator 📝👗](#Text-To-Outfit-Generator)
@@ -33,14 +35,14 @@ This code snippet demonstrates the utilization of a Text-Outfit-Generator model,
 
 >Prompt : Flowers in green shirt with white colored button.
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Text-To-Outfit-Generator)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Text-To-Outfit-Generator)
 
 <a name="Human-Detection"></a>
 ## Human-Identification 👤🚀
 
 This code implements an image classification model using TensorFlow and Keras. The model is designed to classify images into two classes: "human" and "non-human." The neural network architecture consists of convolutional (Conv2D) and pooling (MaxPooling2D) layers, followed by fully connected (Dense) layers. The model is compiled using the binary crossentropy loss function and the Adam optimizer. The Intel OneDNN helped in reducing the time for training, and the optimized TensorFlow for Intel Hardwares helped us in reducing the time for training. 🌐🖼️🤖💪
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Human-Identification)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Human-Identification)
 
 <a name="Outfit-Recommendation"></a>
 ## Outfit-Recommendation 🛍️💡
@@ -58,7 +60,7 @@ This code snippet demonstrates the implementation of an outfit-recommendation mo
 > Selected Ocassion : Wedding
 > Selected Color : White
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Outfit-Recommendation)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Outfit-Recommendation)
 
 <a name="Virtual-Try-On"></a>
 ## Virtual-Try-On 🌐👀
@@ -76,7 +78,7 @@ This code implements a **Virtual-Try-On (VTON)** model that allows users to try 
 ![Inputs](images/upload.png)
 ![Output](images/do.png)
 
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Virtual-Try-On)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Virtual-Try-On)
 
 <a name="Chat-Bot"></a>
 ## Chat-Bot 💬🤖
@@ -98,7 +100,7 @@ This code configures a chatbot using the **Mistral 7B** model, fine-tuned with a
 ><br/>
 >![enter image description here](https://acnvxeqqxhmuzwfvzebn.supabase.co/storage/v1/object/public/personal_pro/screenshots/2_bot.jpg)
 >
-**Folder Link** : [Click Here](https://github.com/dhaan-ish/intelOneApiHackathon/tree/main/Chat-Bot)
+**Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Chat-Bot)
 
 
 # Usage of Intel Developer Cloud 🌐💻
