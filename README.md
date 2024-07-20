@@ -101,25 +101,6 @@ This code configures a chatbot using the **Mistral 7B** model, fine-tuned with a
 **Folder Link** : [Click Here](https://github.com/dhaan-ish/Wizzers/tree/main/Chat-Bot)
 
 
-# Usage of Intel Developer Cloud 🌐💻
-
-
-Utilizing the resources provided by Intel Developer Cloud significantly expedited our AI model development and deployment processes. Specifically, we harnessed the power of Intel's CPU and XPU to accelerate two critical components of our project: Human Detection and Text-to-Outfit Generation. 💻⚡
-
-1.  **Human Detection Model Training:** The Intel Developer Cloud's CPU and XPU capabilities, combined with the use of oneDNN, played a pivotal role in reducing the training time of our Human Detection model. By leveraging the high-performance computing infrastructure provided by Intel, we were able to train our model more efficiently, significantly cutting down the time required for model optimization and experimentation.🚀🔧 <br/> <br/> The integration of oneDNN, a high-performance deep learning library developed by Intel, contributed to this efficiency by optimizing the computational tasks involved in training. Notably, a single epoch now takes only 2 seconds, a substantial improvement compared to the 6 seconds it took in Colab, showcasing the remarkable speedup achieved through the use of Intel's hardware resources and optimized software stack. 🚀⚒️ <br/> <br/> Additionally, the optimized version of TensorFlow tailored for Intel architectures further played a crucial role in reducing the training time. This collaborative utilization of optimized TensorFlow and Intel's advanced computing infrastructure enabled us to achieve significant improvements in model training efficiency, ultimately accelerating our development process and enhancing the overall performance of our Human Detection model. 🏋️‍♂️🧑‍💻
-
-![Comparison Graph](images/Binary_Classifcation_Graph.png)
-
->Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
-    
-2.  **Text-to-Outfit Generation:** The Text-to-Outfit Generator component of our project involved complex computational tasks, particularly during outfit generation and rendering. Running these computations in Google Colab often resulted in long processing times due to resource limitations. However, by leveraging Intel Developer Cloud's CPU and XPU resources, we experienced a notable reduction in processing time. The parallel processing capabilities of Intel's infrastructure enabled us to generate outfit recommendations swiftly, enhancing the overall user experience. 🌟👗
-
-![Comparison Graph](images/textToImageComparison.png)
-
->Comparison between time took in Intel Developers Cloud using OneDNN and Google Colab
-    
-In summary, Intel Developer Cloud's advanced CPU and XPU technologies provided us with the computational power necessary to expedite model training and inference processes, ultimately accelerating our project development and deployment timelines. 🚀🕒
-
 # Flow Diagram 🔄📊
 
 The flow diagram illustrates the sequential steps and interactions within our system. Each stage in the process contributes to the overall functionality, ensuring a smooth and efficient workflow. Let's delve into the key components:
@@ -156,7 +137,6 @@ The flow diagram illustrates the sequential steps and interactions within our sy
     
     -   **Gradio:** A user-friendly library for creating connection between front end and ml models, enabling seamless integration of AI features into our application. 🚀🤝
     -   **LLAMA Index:** A powerful indexing and search engine for efficient retrieval of fashion-related data, contributing to faster outfit recommendations and search functionalities. 📊🔍
-    -   **Intel Developer Cloud:** Leveraging Intel's high-performance CPU and XPU capabilities, we accelerated model training and inference processes, reducing processing time and improving overall performance. ⚡💻
 
 # What It Does 🤖🚀
 Our application offers an immersive and interactive experience for users seeking fashion advice and outfit recommendations. Here's a breakdown of its key functionalities:
